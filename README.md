@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
-- 👨‍💻 All of my projects are available at [`https://sarb-portfolio.netlify.app`]()
+- 👨‍💻 All of my projects are available at [`https://sarb-portfolio.netlify.app`](https://sarb-portfolio.netlify.app)
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 
