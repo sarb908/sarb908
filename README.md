@@ -84,16 +84,15 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sarbjot-/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/sarbjot-" />
     </a>
-    <a href="https://twitter.com/sarbjots908">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
+
     </a>
     <a href="https://sarb-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://sarb-portfolio.netlify.app/" />
     </a>
     <a title="sarbjots908@gmail.com" href="sarbjots908@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sarbjots908@gmail.com" />
     </a>
 </p>
 <br>
@@ -122,13 +121,13 @@
 
 <p>
     <a href="https://github.com/shriram083/Fraazo-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shriram083&repo=Fraazo-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shriram083&repo=Fraazo-Clone&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
     </a>
     <a href="https://github.com/shreymishra27/Unit-2-Project">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreymishra27&repo=Unit-2-Project&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreymishra27&repo=Unit-2-Project&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
     </a>
     <a href="https://github.com/sarb908/ShopBop">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
     </a>
    
 </p>
