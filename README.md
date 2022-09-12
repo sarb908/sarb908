@@ -68,6 +68,9 @@
     <a href="https://github.com/shriram083/Fraazo-Clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fraazo&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="" />
     </a>
+     <a href="https://github.com/sarb908/DisneyClone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DisneyClone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="" />
+    </a>
     
 
 </p>
@@ -122,6 +125,9 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=greasy-sofa-2441&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
     </a>
     <a href="https://github.com/sarb908/ShopBop">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
+    </a>
+      <a href="https://github.com/sarb908/DisneyClone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
     </a>
    
