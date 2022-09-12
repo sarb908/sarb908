@@ -128,7 +128,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
     </a>
       <a href="https://github.com/sarb908/DisneyClone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=ShopBop&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarb908&repo=DisneyClone&locale=en&border_radius=0&theme=dark" alt="sarbjot" />
     </a>
    
 </p>
