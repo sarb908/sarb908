@@ -58,22 +58,7 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My top projects</i></h2>
 
-
-<p align="left">
-       <a href="https://github.com/sarb908/ShopBop" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ShopBop Clone&color=000000&logo=hotjar&logoColor=FFFFFF&label=" alt="" />
-    </a>
-    <a href="https://github.com/shriram083/Fraazo-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fraazo&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="" />
-    </a>
-     <a href="https://github.com/sarb908/DisneyClone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DisneyClone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="" />
-    </a>
-    
-
-</p>
 <br>
 
 
