@@ -90,9 +90,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarb908&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="sarb908" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarb908&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sarb908" height="139" />
 </p>
-<p >
-    <a href="https://github.com/sarb908/github-readme-activity-graph"><img  align="center" alt="sarb908's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sarb908&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
+
 <br>
 
 
