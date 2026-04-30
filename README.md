@@ -1,5 +1,5 @@
 <!----------------------------------- Heading Section ------------------------------------>
-<img  src="https://www.aaditritechnology.com/images/redesign.gif">
+<img  src="https://www.aaditritechnology.com/images/redesign.gif" >
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
