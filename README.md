@@ -1,4 +1,4 @@
-<!----------------------------------- Heading Section  ------------------------------------>
+<!----------------------------------- Heading Section ------------------------------------>
 <img  src="https://www.aaditritechnology.com/images/redesign.gif" >
 <h1 align="center">
     Hi
